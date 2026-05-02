@@ -14,7 +14,7 @@ Codveda_Internship/
 │   └── task2_guessing_game.py     — Number Guessing Game
 ├── Level2/
 │   ├── task1_todo_list.py         — To-Do List Application
-│   └── task2_word_counter.py      — Word Counter
+│   └── task2_word_counter.py      — Data Scrapper
 └── Level3/
     ├── task1_encryption.py        — File Encryption / Decryption
     └── task2_nqueens.py           — N-Queens Problem Solver
