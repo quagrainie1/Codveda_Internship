@@ -52,15 +52,13 @@ python Level2/task1_todo_list.py
 ```
 **Key concepts:** JSON file I/O, CRUD operations, dictionaries, error handling
 
-### Task 2 · Word Counter
-Reads a `.txt` file and reports word count, unique words, sentence count,
-paragraphs, and top 10 most-used keywords.
+### Task 2 · Data Scraper
+Scrapes news headlines from BBC News, Hacker News, and Reuters. 
+Displays results in the terminal and optionally saves them to a timestamped CSV file.
 ```bash
-python Level2/task2_word_counter.py
+python Level2/task2_data_scraper.py
 ```
-**Key concepts:** file reading, regex, `collections.Counter`, exception handling
-
----
+**Key concepts: web scraping, requests, BeautifulSoup, HTML parsing, CSV writing, exception handling
 
 ## Level 3 — Advanced
 
